@@ -3,7 +3,7 @@
 <h1 align="center"><b>Hi , I'm Seroney Matoke </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=900&height=100&lines=Greetings..&hearts;++;I'm+passionate+about;Python+BackEnd+Development+with+FastAPI+and+Flask;Auth+Systems+KeyCloak+OpenID+OAuth2+SAML;Test+Automation+(BDD+Selenium+Appium+Pytest+JUnit);Active+Learning/Research,;Love+to+learn+new+stuff..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=900&height=100&lines=Greetings..&hearts;++;I'm+passionate+about;Python+BackEnd+Development+with+FastAPI+and+Flask;Auth+Systems+KeyCloak+OpenID+OAuth2+SAML;Test+Automation+(BDD+Selenium+Appium+Pytest+JUnit);Active+Learning/Research;CTF+Newbie;Love+to+learn+new+stuff..<3"></a>
 </p>
 
 
@@ -20,8 +20,7 @@
 
 - A passionate Backend Developer developer
 - Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
+- Currently learning Data Engineering and DevOPS
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 <br><br>
@@ -34,20 +33,13 @@
 <p align="center">
 
 - **Languages**:
-    
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java%20-2314354C?style=for-the-badge&logo=java&logoColor=white)  
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    
 
 <br>   
-    
-- **Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br>
 
 - **Cloud Hosting**:
 
